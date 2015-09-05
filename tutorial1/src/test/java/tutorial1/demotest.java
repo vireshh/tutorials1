@@ -21,4 +21,9 @@ public void takeIt()
 	System.out.println("few new changes");
 }
 
+@Test
+public void take()
+{
+	
+}
 }
