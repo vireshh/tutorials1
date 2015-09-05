@@ -11,6 +11,7 @@ public void shoudReturntrue()
 {
 	demo demo1 = new demo();
 	assertFalse(demo1.getBool());
+	System.out.println("the new value");
 	
 }
 
