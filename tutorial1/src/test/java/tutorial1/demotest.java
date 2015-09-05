@@ -18,12 +18,18 @@ public void shoudReturntrue()
 @Test
 public void takeIt()
 {
-	
+	System.out.println("few new changes");
 }
 
 @Test
 public void take()
 {
 System.out.println("The new changes");	
+}
+
+@Test
+public void t()
+{
+	
 }
 }
